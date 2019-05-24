@@ -42,3 +42,5 @@ Per crear un nou projecte s'ha de omplir el formulari amb :
 * **Version Comment** : Comentaris de la versió inicial o petita descripció del projecte.
 
 .. image:: img/4.png
+
+**IMPORTANT!!!!** : Per poder crear el projecte el camp *Start Date* ha de ser menor que el camp *Release Date*
