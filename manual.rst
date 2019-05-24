@@ -1,5 +1,5 @@
 ===================================================================================================
-Guia de com crear un projecte i les seves tasques en Athena
+Guia de com crear un projecte  en Athena
 ===================================================================================================
 
 .. sectnum::
@@ -8,7 +8,7 @@ Guia de com crear un projecte i les seves tasques en Athena
 
 Introducció
 ~~~~~~~~~~~~~~
-En aquest document està descrit com crear un projctes i les seves tasques en el gestor de projectes Athena.
+En aquest document està descrit com crear un projectes  en el gestor de projectes Athena.
 
 Passos a seguir
 ~~~~~~~~~~~~~~~~~~
