@@ -25,12 +25,11 @@ Un cop hagis iniciat sessió, si tens els permisos necessaris veruas al menu lat
 
 .. image:: img/2.png
 
- Al fer clic seràs redirigit a una pantalla  on surt un llistat del projectes. 
- Per poder crear un projecte nou, hauràs de clicar un botó a la part superior dreta amb un icona de suma ( + ). Hi seràs redirigit al formulari de creació de un nou projecte.
+Al fer clic seràs redirigit a una pantalla  on surt un llistat del projectes. 
+Per poder crear un projecte nou, hauràs de clicar un botó a la part superior dreta amb un icona de suma ( + ). Hi seràs redirigit al formulari de creació de un nou projecte.
 
-.. image:: img/22.png
+.. image:: img/3.png
 
-****
 
 Formulari de creació de un nou projecte
 ------------------------------------------------------
