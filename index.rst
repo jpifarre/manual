@@ -14,7 +14,7 @@ Passos a seguir
 ~~~~~~~~~~~~~~~~~~
 Iniciar sessió  
 ----------------------------------
-Per poder crear projectes en l'aplicació web s'ha de haver iniciat sessió un amb un usuari que tingui els permisos corresponents (**permís : **  *Project Management*  o  *Project Administrator*)
+Per poder crear projectes en l'aplicació web s'ha de haver iniciat sessió un amb un usuari que tingui els permisos corresponents (permís :  *Project Management*  o  *Project Administrator*)
 
 .. image:: img/1.png
 
